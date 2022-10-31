@@ -5,6 +5,7 @@ def print_hi(name):
 
 def features():
     print("New feature is added")
+    print("New feature1 is added")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
