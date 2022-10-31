@@ -8,4 +8,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('This is for git practicing.')
     print_hi("Ready for another commit")
+    print("Hello from master")
 
