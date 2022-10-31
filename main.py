@@ -10,4 +10,5 @@ def features():
 if __name__ == '__main__':
     print_hi('This is for git practicing.')
     print_hi("Ready for another commit")
+    features()
 
